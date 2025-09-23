@@ -1,3 +1,6 @@
+body{
+    font-family: Montserrat, sans-serif;
+}
 p {
     color:#222526;
     line-height:1.1;
@@ -16,4 +19,12 @@ h3, h4, h5, h6 {
     font-weight:bold;
     font-style:italic;
     text-decoration:underline;
+}
+
+.highlight {
+    color:#890d59
+}
+img{
+    display: block;
+    margin: auto;
 }
