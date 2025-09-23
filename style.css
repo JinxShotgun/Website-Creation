@@ -1,0 +1,19 @@
+p {
+    color:#222526;
+    line-height:1.1;
+    letter-spacing: normal;
+    word-spacing: 2px;
+}
+h1, h2 {
+    color:#00808b;
+        text-align:center;
+        text-decoration:underline;
+        text-transform:capitalize;
+}
+h3, h4, h5, h6 {
+    color:#00808b;
+    text-align:center;
+    font-weight:bold;
+    font-style:italic;
+    text-decoration:underline;
+}
