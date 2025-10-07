@@ -29,8 +29,59 @@ img{
     display: block;
     margin: auto;
 }
-.table-container{
-    margin-left: auto;
-        margin-right:auto;
+.table{
+    margin-left: center;
+        margin-right:center;
+    width:100%;
         
 }
+.navbar {
+    text-align:center;
+    width:100%;
+}
+
+/* stuff that doesnt change*/
+.navbutton {
+    background-color: cornsilk;
+        border: 2px dashed #444;
+    
+    
+    padding:10px;
+    height:50px;
+}
+
+/* default - mobile/phone */
+.navbutton {
+    width:100%;
+    margin:-2px;
+}
+
+
+/* tablet and up */
+@media (min-width: 830px){
+    .navbutton{
+       display:inline-block; 
+       width:25%;
+       margin:-4px;
+  }
+}
+
+
+/* large desktop */
+@media (min-width: 1200px) {
+    .navbutton {
+         display:inline-block;
+         width:150px;
+         margin:10px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
