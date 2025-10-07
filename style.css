@@ -30,13 +30,15 @@ img{
     margin: auto;
 }
 .table-container{
-    margin: center;
+    margin-left: center;
+    margin-right: center;
     width:100%;
         
 }
 .navbar {
     text-align:center;
     width:100%;
+    margin:30px;
 }
 
 /* stuff that doesnt change*/
