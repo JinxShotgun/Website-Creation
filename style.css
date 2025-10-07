@@ -29,9 +29,8 @@ img{
     display: block;
     margin: auto;
 }
-.table{
-    margin-left: center;
-        margin-right:center;
+.table-container{
+    margin: center;
     width:100%;
         
 }
