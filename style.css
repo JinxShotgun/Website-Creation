@@ -1,12 +1,14 @@
 body {
     font-family: "Playfair Display";
     background-color: rgba(196, 173, 118, 0.4);
+    align-content: center;
 }
 p {
     color: #222526;
     line-height: 1.1;
     letter-spacing: normal;
     word-spacing: 2px;
+    align-content: center;
 }
 h1,
 h2 {
@@ -14,6 +16,7 @@ h2 {
     text-align: center;
     text-decoration: underline;
     text-transform: capitalize;
+    align-content: center;
 }
 h3,
 h4,
@@ -24,6 +27,7 @@ h6 {
     font-weight: bold;
     font-style: italic;
     text-decoration: underline;
+    align-content: center;
 }
 
 .highlight {
@@ -34,13 +38,16 @@ img {
     margin: auto;
     max-width: 100%;
     height: auto;
+    align-content: center;
 }
 iframe {
     display: block;
     margin: auto;
+    align-content: center;
 }
 .table-container {
     width: 100%;
+    align-content: center;
 }
 .navbar {
     text-align: center;
